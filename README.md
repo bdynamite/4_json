@@ -1,17 +1,18 @@
 # Prettify JSON
 
-[TODO. There will be project description]
+Поместите json-файл в папку со скриптом
 
 # Quickstart
 
-[TODO]
 
 Example of script launch on Linux, Python 3.5:
 
 ```#!bash
 
 $ python pprint_json.py <path to file>
-# TODO add output example
+output example
+input data path: bars.json
+#Вводим полное имя файла с данными
 
 ```
 
