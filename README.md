@@ -1,6 +1,6 @@
 # Prettify JSON
 
-Поместите json-файл в папку со скриптом
+pretty print json files
 
 # Quickstart
 
@@ -9,10 +9,20 @@ Example of script launch on Linux, Python 3.5:
 
 ```#!bash
 
-$ python pprint_json.py <path to file>
-output example
-input data path: bars.json
-#Вводим полное имя файла с данными
+$ python pprint_json.py
+input data path: C:\...\bars.json  # input full path
+# output example
+[
+    {
+        "global_id": 20660594,
+        "system_object_id": "000069302",
+        ...
+        ...
+        ...
+        }
+    }
+]
+
 
 ```
 
