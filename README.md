@@ -5,7 +5,7 @@ pretty print json files
 # Quickstart
 
 
-Example of script launch on Linux, Python 3.5:
+Example of script launch on Windows, Python 3.5:
 
 ```#!bash
 
